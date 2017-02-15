@@ -1,9 +1,10 @@
 package oneToTen;
 
+//Solution from old college assignment
+
 public class Problem3 {
 
 	public static void main(String[] args) {
-
 		long i;
 		long number = 600851475143L;
 	    for (i = 2L; i <= number; i++) {
